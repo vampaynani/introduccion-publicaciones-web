@@ -17,3 +17,8 @@ Repositorio de material útil para los alumnos de introducción a las publicacio
 
 ## 5. Responsive Web Design
 https://jsbin.com/jurolexobe/edit
+  - Flexbox
+  Usar el HTML inicial de:
+  https://gist.github.com/vampaynani/6e11ec26ab6d124fc84690341c43382f
+  Debe quedar:
+  https://jsbin.com/zasezeyoli
