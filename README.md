@@ -16,10 +16,19 @@ Repositorio de material útil para los alumnos de introducción a las publicacio
 [Lista de comandos](git.md)
 
 ## 5. Responsive Web Design
-https://jsbin.com/jurolexobe/edit
-  - Flexbox
-  Usar el HTML inicial de:
-  https://gist.github.com/vampaynani/6e11ec26ab6d124fc84690341c43382f
+  - Media queries
+  https://jsbin.com/jurolexobe/edit
   
-  Debe quedar:
-  https://jsbin.com/kecayufofo/
+  - Flexbox
+  
+    **Flexbox Froggy**
+  
+    https://flexboxfroggy.com/#es
+  
+    **Ejercicio**
+  
+    Debes crear el siguiente layout:
+    https://jsbin.com/kecayufofo/
+  
+    Usar el HTML inicial de:
+    https://gist.github.com/vampaynani/6e11ec26ab6d124fc84690341c43382f
