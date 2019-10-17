@@ -7,7 +7,7 @@ Repositorio de material útil para los alumnos de introducción a las publicacio
 
 ## 2. CSS
 
-[CSS](files/css-cheat-sheet.pdf)
+[CSS Cheatsheet](files/css-cheat-sheet.pdf)
 
 ## 3. Comandos de terminal
 [Lista de comandos](terminal.md)
@@ -25,10 +25,22 @@ Repositorio de material útil para los alumnos de introducción a las publicacio
   
     https://flexboxfroggy.com/#es
   
-    **Ejercicio**
+    **Ejercicios de layouts**
   
-    Debes crear el siguiente layout:
-    https://jsbin.com/kecayufofo/
-  
-    Usar el HTML inicial de:
-    https://gist.github.com/vampaynani/6e11ec26ab6d124fc84690341c43382f
+    1. Crear el siguiente layout https://jsbin.com/kecayufofo/ usando el HTML inicial de https://gist.github.com/vampaynani/6e11ec26ab6d124fc84690341c43382f
+    
+    2. Crear el siguiente layout: https://nsi38.csb.app/
+        
+        Fonts: Josefin Slab (regular), Open Sans Condensed (bold)
+        
+        Colors: black, chocolate
+        
+        Solución: https://github.com/vampaynani/edinba-basic-layout-1
+    
+    3. Crear el siguiente layout https://ckc4d.csb.app/
+    
+        Fonts: Heebo (bold), Work Sans (light, regular)
+        
+        Colors: black, white, blue
+        
+        Solución: https://github.com/vampaynani/edinba-basic-layout-2
