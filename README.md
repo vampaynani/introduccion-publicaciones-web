@@ -47,6 +47,9 @@ Repositorio de material útil para los alumnos de introducción a las publicacio
         
 ## 6. Javascript
 [Documentación oficial de MDN](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
 [Variables](variables.md)
+
 [Funciones](funciones.md)
+
 [jQuery](jquery.md)
